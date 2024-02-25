@@ -1,1 +1,1 @@
-Responsive landing page using HTML, CSS and Javascript.
+Responsive landing page using HTML and CSS 
